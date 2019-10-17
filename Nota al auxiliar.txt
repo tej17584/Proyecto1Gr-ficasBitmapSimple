@@ -1,0 +1,12 @@
+Hola.
+A quien lo califique, me interesa contarle varias cositas.
+
+1) El modelo más complejo es Gary, ese lo hice yo, el resto son descargados de internet. 
+2) Escogí Bob esponja, porque, a todos nos gusta Bob Esponja.
+3) El shader se lo apliqué a Don Cangrejo, estaba desnudo así que le puse una camisita y un pantalón y el resto es random.
+4) El gary que es mi modelo, tiene 10,000 caras, y no tiene textura, solo materiales.
+5) Bob, Patricio, Calamardo son con textura y Shader, cada uno tiene su luz. 
+6) Están colocados de manera que quepan todos en la escena, si quieres cambiar algo, te recomiendo no mover la cámara. 
+
+Cualquier duda sobre alguna parte, con gusto te puedo contestar. 
+Feliz día. 
